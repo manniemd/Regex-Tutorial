@@ -31,14 +31,7 @@ When working with regular expressions, you can use an anchor to state that a mat
 [Regular Expression Anchors](http://www.blackwasp.co.uk/RegexAnchors.aspx)
 ### Quantifiers
 Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found. The following table lists the quantifiers supported by .NET.
-QUANTIFIERS IN REGULAR EXPRESSIONS
-Greedy quantifier	Lazy quantifier	Description
-*	*?	Match zero or more times.
-+	+?	Match one or more times.
-?	??	Match zero or one time.
-{ n }	{ n }?	Match exactly n times.
-{ n ,}	{ n ,}?	Match at least n times.
-{ n , m }	{ n , m }?	Match from n to m times.
+![Screen Shot 2021-07-14 at 2 03 03 PM](https://user-images.githubusercontent.com/76885757/125670677-1f0c1345-909d-4e92-8d92-0a1f17991572.png)
 [Quantifiers](https://docs.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions)
 
 ### OR Operator
