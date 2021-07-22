@@ -2,6 +2,8 @@
 
 Introductory paragraph (In this tutorial you will learn about the regular expressions. regular expresions are are special strings representing a pattern to be matched in a search operation. a regex is a string of text that allows you to create patterns that help match, locate, and manage text.)
 
+# Check out the gist
+https://gist.github.com/manniemd/1b4b1c791fb816a4f61f0675ddb02ba1
 ## Wikipedia definition
 A regular expression is a sequence of characters that specifies a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
